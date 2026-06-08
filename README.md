@@ -27,7 +27,3 @@ java Actividad8Greedy
 El programa imprime los resultados de los ejemplos guía para ambos problemas:
 - Mochila Fraccional (2 ejemplos)
 - Cobertura de Antenas (2 ejemplos)
-
-## Estructura sugerida del repositorio
-- `Actividad8Greedy.java` → Código fuente Java
-- `README.md` → Instrucciones básicas de uso
