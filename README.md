@@ -31,4 +31,3 @@ El programa imprime los resultados de los ejemplos guía para ambos problemas:
 ## Estructura sugerida del repositorio
 - `Actividad8Greedy.java` → Código fuente Java
 - `README.md` → Instrucciones básicas de uso
-- `Informe_Actividad8_Guia.md` (opcional) → Guía para redactar informe
